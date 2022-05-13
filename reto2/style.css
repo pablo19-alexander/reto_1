@@ -1,0 +1,48 @@
+body{
+    background-color: hsl(225, 100%, 94%);
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    width: 100%;
+    text-align: center;
+}
+.sesion1{
+    width: 30%;
+    margin: 0 auto;
+    background-color: hsl(225, 100%, 98%);
+    display: flex;
+    flex-direction: column;
+|   
+}
+
+.contenido2{
+    background-color: hsl(225, 100%, 97%);
+    
+}
+
+p{
+    color: hsl(224, 23%, 55%);
+}
+
+h1{
+
+}
+
+h3{
+    color: hsl(224, 23%, 55%)
+}
+
+.boton1{
+    background-color: hsl(245, 75%, 52%);
+    color: hsl(225, 100%, 98%);
+}
+
+.cargar{
+    
+}
+
+.b{
+    color: hsl(224, 23%, 55%)
+}
